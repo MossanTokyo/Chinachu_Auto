@@ -70,12 +70,6 @@ cd recpt1/recpt1
 make
 sudo make install
 
-#make
- 
-#sudo cp libpcsclite.so.1.0.0 /lib/x86_64-linux-gnu/
-# add a blacklist
-#echo "blacklist *pcsc*" | sudo tee -a  /etc/modprobe.d/blacklist.conf
- 
 # install chinachu
 cd ~
   
